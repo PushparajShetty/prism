@@ -1,6 +1,6 @@
 module github.com/kubevela/prism
 
-go 1.23.8
+go 1.24.4
 
 require (
 	cuelang.org/go v0.5.0-beta.2.0.20230130095913-d573e0c2f041
